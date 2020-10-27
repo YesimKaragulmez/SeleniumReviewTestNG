@@ -1,6 +1,6 @@
-package com.techproed.tests.smoketests;
+package com.techproed.smoketests;
 
-import com.techproed.tests.pages.FhcTripHotelCreatePage;
+import com.techproed.pages.FhcTripHotelCreatePage;
 import com.techproed.utilities.TestBase;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

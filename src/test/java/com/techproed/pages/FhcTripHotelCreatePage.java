@@ -1,4 +1,4 @@
-package com.techproed.tests.pages;
+package com.techproed.pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

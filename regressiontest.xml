@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="suit - regression test">
+    <test name="Test- tum testleri calistir">
+        <packages>
+
+            <package name=".*"></package>
+
+        </packages>
+    </test>
+</suite>
